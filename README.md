@@ -1,14 +1,14 @@
 # 🛒 Ecommerce UI
 
-A modern and responsive Ecommerce User Interface built using React.js and Vite.
+A modern and responsive Ecommerce User Interface built using **React.js** and **Vite**. This project provides a clean shopping experience with responsive layouts, reusable components, and modern UI design.
 
 ## 🚀 Live Demo
 
-https://ecommerce-ui-react-two.vercel.app/
+🔗 https://ecommerce-ui-react-two.vercel.app/
 
 ## 📂 GitHub Repository
 
-https://github.com/Suman1-panda/Ecommerce-UI-React
+🔗 https://github.com/Suman1-panda/Ecommerce-UI-React
 
 ## 📸 Project Preview
 
@@ -16,29 +16,52 @@ https://github.com/Suman1-panda/Ecommerce-UI-React
 
 ## ✨ Features
 
-- Responsive Design
-- Product Listing
-- Shopping Cart UI
-- Reusable Components
-- Modern User Interface
-- Mobile Friendly Layout
+* Responsive Design
+* Product Listing Page
+* Product Cards
+* Shopping Cart UI
+* Reusable Components
+* Modern User Interface
+* Mobile Friendly Layout
+* Fast Performance with Vite
 
 ## 🛠️ Tech Stack
 
-- React.js
-- JavaScript
-- HTML5
-- CSS3
-- Vite
-- Git & GitHub
-- Vercel
+* React.js
+* JavaScript (ES6+)
+* HTML5
+* CSS3
+* Vite
+* Git
+* GitHub
+* Vercel
 
-## 🚀 Run Locally
+## 📁 Project Structure
+
+```text
+src/
+├── assets/
+├── components/
+│   ├── Navbar.jsx
+│   └── ProductCard.jsx
+├── pages/
+│   ├── Home.jsx
+│   └── Cart.jsx
+├── App.jsx
+├── App.css
+├── main.jsx
+└── index.css
+```
+
+## 🚀 Installation & Setup
 
 ```bash
 git clone https://github.com/Suman1-panda/Ecommerce-UI-React.git
+
 cd Ecommerce-UI-React
+
 npm install
+
 npm run dev
 ```
 
@@ -46,4 +69,16 @@ npm run dev
 
 **Suman Panda**
 
-GitHub: https://github.com/Suman1-panda
+* GitHub: https://github.com/Suman1-panda
+* Role: Java Full Stack Developer
+
+## 📌 Future Enhancements
+
+* User Authentication
+* Product Search & Filter
+* Wishlist Functionality
+* Payment Gateway Integration
+* Order Management System
+
+```
+```
